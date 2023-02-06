@@ -5,7 +5,10 @@ Esto es una guia teorico practica para los alumnos de __"Git Desarrollo Colabora
 ## Configuracion Inicial
 
 Cuando descargamos la herramienta __GIT__ debemos inicializar un proyecto en una carpeta a eleccion.
-
+## Areas de Git
+### Working Directory
+### Staging Area
+### Repository
 
 ## Contacto
 Para mas informacion consultar la Plataforma [alumni](https://alumni.education), donde tambien pueden realizar los examenes.
