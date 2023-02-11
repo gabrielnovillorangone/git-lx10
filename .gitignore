@@ -8,3 +8,10 @@ log_*.doc
 *.doc
 
 
+docs/
+temp/
+tmp/
+logs/
+blame/
+node_modules/
+modules/
