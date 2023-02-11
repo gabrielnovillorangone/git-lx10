@@ -1,0 +1,10 @@
+*.temp
+*.tmp
+*.txt
+log_*.md
+*.swp
+log_*.doc
+*.log
+*.doc
+
+
